@@ -1,0 +1,48 @@
+body {
+    background-color: grey;
+    opacity: 0.7;
+}
+.tentang{
+
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.asd{
+
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.h1{
+
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.color{
+
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.q{
+    color: #f30000;
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+
+.p{
+    font-weight: bold;
+	font-style: oblique;
+    font-family: sans-serif;
+}
+.form-content{
+    width: 200px;
+    height: 25px;
+}
